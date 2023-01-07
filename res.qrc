@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/SmallLogo.png</file>
+        <file>image/Surface.jpg</file>
+        <file>image/SelectorScreenStartAdventur.png</file>
+        <file>image/SelectorScreen_WoodSign1_32.png</file>
+        <file>image/Almanac_IndexButton.png</file>
+        <file>image/Challenge_Background.jpg</file>
+        <file>image/Button.png</file>
+        <file>image/background1unsodded.jpg</file>
+        <file>image/Almanac_Ground.jpg</file>
+        <file>image/postsbg.jpg</file>
+        <file>image/bgHeader.jpg</file>
+        <file>image/bgFooter.jpg</file>
+        <file>image/chanzi.png</file>
+        <file>image/GloomShroom.png</file>
+        <file>image/WallNut.png</file>
+        <file>image/GloomShroom.gif</file>
+        <file>image/WallNut.gif</file>
+        <file>image/enemy.gif</file>
+        <file>image/PB00.gif</file>
+        <file>image/bug_spray.png</file>
+        <file>image/Fertilizer.png</file>
+        <file>image/WateringCan.png</file>
+    </qresource>
+</RCC>
